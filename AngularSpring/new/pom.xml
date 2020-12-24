@@ -34,7 +34,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-        </dependency>
+        </dependency> <!-- cria web services, rests apis e permite acesso pelo browser -->
 
     </dependencies>
 
